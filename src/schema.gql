@@ -1,0 +1,26 @@
+# ------------------------------------------------------
+# THIS FILE WAS AUTOMATICALLY GENERATED (DO NOT MODIFY)
+# ------------------------------------------------------
+
+type Hospital {
+  hospital_id: Int!
+  name: String!
+}
+
+type Query {
+  findHospital(hospital_id: Int!): Hospital!
+  findUser(user_id: Int!): User!
+  hospital: [Hospital!]!
+  user: [User!]!
+}
+
+type User {
+  address: String!
+  agreement: String!
+  email: String!
+  login_type: String!
+  name: String!
+  password: String!
+  status: String!
+  user_id: Int!
+}

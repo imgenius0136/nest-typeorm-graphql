@@ -1,0 +1,13 @@
+# ------------------------------------------------------
+# THIS FILE WAS AUTOMATICALLY GENERATED (DO NOT MODIFY)
+# ------------------------------------------------------
+
+type Hospital {
+  hospital_id: Int!
+  name: String!
+}
+
+type Query {
+  findHospital(hospital_id: Int!): Hospital!
+  hospital: [Hospital!]!
+}
