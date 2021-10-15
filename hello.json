@@ -1,0 +1,1242 @@
+{
+  "event_id": "f2ee80041ef74d77831cbbb9275455ea",
+  "project": 5751551,
+  "release": "com.ksncho.hospitalinfo@4.5.22+5714",
+  "dist": "5714",
+  "platform": "java",
+  "message": "",
+  "datetime": "2021-10-14T12:40:50.401000Z",
+  "tags": [],
+  "_metrics": {
+    "bytes.ingested.event": 18686,
+    "bytes.stored.event": 23875
+  },
+  "breadcrumbs": {
+    "values": [
+      {
+        "timestamp": 1634215035.644,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "IntroActivity",
+          "state": "stopped"
+        }
+      },
+      {
+        "timestamp": 1634215035.644,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "IntroActivity",
+          "state": "destroyed"
+        }
+      },
+      {
+        "timestamp": 1634215036.172,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "MainTabActivity",
+          "state": "stopped"
+        }
+      },
+      {
+        "timestamp": 1634215036.176,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "MainTabActivity",
+          "state": "saveInstanceState"
+        }
+      },
+      {
+        "timestamp": 1634215044.564,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "VaccinationLandingActivity",
+          "state": "paused"
+        }
+      },
+      {
+        "timestamp": 1634215044.594,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "LoginActivity",
+          "state": "created"
+        }
+      },
+      {
+        "timestamp": 1634215044.64,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "LoginActivity",
+          "state": "started"
+        }
+      },
+      {
+        "timestamp": 1634215044.64,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "LoginActivity",
+          "state": "resumed"
+        }
+      },
+      {
+        "timestamp": 1634215045.108,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "VaccinationLandingActivity",
+          "state": "stopped"
+        }
+      },
+      {
+        "timestamp": 1634215045.11,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "VaccinationLandingActivity",
+          "state": "saveInstanceState"
+        }
+      },
+      {
+        "timestamp": 1634215045.988,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "LoginActivity",
+          "state": "paused"
+        }
+      },
+      {
+        "timestamp": 1634215046.001,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "KakaoLoginActivity",
+          "state": "created"
+        }
+      },
+      {
+        "timestamp": 1634215046.017,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "KakaoLoginActivity",
+          "state": "started"
+        }
+      },
+      {
+        "timestamp": 1634215046.017,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "KakaoLoginActivity",
+          "state": "resumed"
+        }
+      },
+      {
+        "timestamp": 1634215046.042,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "KakaoLoginActivity",
+          "state": "paused"
+        }
+      },
+      {
+        "timestamp": 1634215048.592,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "KakaoLoginActivity",
+          "state": "resumed"
+        }
+      },
+      {
+        "timestamp": 1634215049.096,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "KakaoLoginActivity",
+          "state": "paused"
+        }
+      },
+      {
+        "timestamp": 1634215049.115,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "LoginActivity",
+          "state": "resumed"
+        }
+      },
+      {
+        "timestamp": 1634215049.12,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "KakaoLoginActivity",
+          "state": "stopped"
+        }
+      },
+      {
+        "timestamp": 1634215049.123,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "KakaoLoginActivity",
+          "state": "destroyed"
+        }
+      },
+      {
+        "timestamp": 1634215049.388,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "LoginActivity",
+          "state": "paused"
+        }
+      },
+      {
+        "timestamp": 1634215049.401,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "TermsActivity",
+          "state": "created"
+        }
+      },
+      {
+        "timestamp": 1634215049.426,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "TermsActivity",
+          "state": "started"
+        }
+      },
+      {
+        "timestamp": 1634215049.426,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "TermsActivity",
+          "state": "resumed"
+        }
+      },
+      {
+        "timestamp": 1634215049.875,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "LoginActivity",
+          "state": "stopped"
+        }
+      },
+      {
+        "timestamp": 1634215049.879,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "LoginActivity",
+          "state": "saveInstanceState"
+        }
+      },
+      {
+        "timestamp": 1634215052.168,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "TermsActivity",
+          "state": "paused"
+        }
+      },
+      {
+        "timestamp": 1634215052.193,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "LoginActivity",
+          "state": "started"
+        }
+      },
+      {
+        "timestamp": 1634215052.193,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "LoginActivity",
+          "state": "resumed"
+        }
+      },
+      {
+        "timestamp": 1634215052.535,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "TermsActivity",
+          "state": "stopped"
+        }
+      },
+      {
+        "timestamp": 1634215052.536,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "TermsActivity",
+          "state": "destroyed"
+        }
+      },
+      {
+        "timestamp": 1634215053.209,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "LoginActivity",
+          "state": "paused"
+        }
+      },
+      {
+        "timestamp": 1634215053.249,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "VaccinationLandingActivity",
+          "state": "started"
+        }
+      },
+      {
+        "timestamp": 1634215053.249,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "VaccinationLandingActivity",
+          "state": "resumed"
+        }
+      },
+      {
+        "timestamp": 1634215053.275,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "VaccinationLandingActivity",
+          "state": "paused"
+        }
+      },
+      {
+        "timestamp": 1634215053.301,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "CertifyActivity",
+          "state": "created"
+        }
+      },
+      {
+        "timestamp": 1634215053.318,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "CertifyActivity",
+          "state": "started"
+        }
+      },
+      {
+        "timestamp": 1634215053.318,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "CertifyActivity",
+          "state": "resumed"
+        }
+      },
+      {
+        "timestamp": 1634215053.78,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "VaccinationLandingActivity",
+          "state": "stopped"
+        }
+      },
+      {
+        "timestamp": 1634215053.781,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "VaccinationLandingActivity",
+          "state": "saveInstanceState"
+        }
+      },
+      {
+        "timestamp": 1634215053.782,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "LoginActivity",
+          "state": "stopped"
+        }
+      },
+      {
+        "timestamp": 1634215053.782,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "LoginActivity",
+          "state": "destroyed"
+        }
+      },
+      {
+        "timestamp": 1634215054.812,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "CertifyActivity",
+          "state": "paused"
+        }
+      },
+      {
+        "timestamp": 1634215054.829,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "WebViewEventActivity",
+          "state": "created"
+        }
+      },
+      {
+        "timestamp": 1634215054.841,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "WebViewEventActivity",
+          "state": "started"
+        }
+      },
+      {
+        "timestamp": 1634215054.842,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "WebViewEventActivity",
+          "state": "resumed"
+        }
+      },
+      {
+        "timestamp": 1634215055.288,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "CertifyActivity",
+          "state": "stopped"
+        }
+      },
+      {
+        "timestamp": 1634215055.288,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "CertifyActivity",
+          "state": "saveInstanceState"
+        }
+      },
+      {
+        "timestamp": 1634215089.431,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "WebViewEventActivity",
+          "state": "paused"
+        }
+      },
+      {
+        "timestamp": 1634215089.454,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "CertifyActivity",
+          "state": "started"
+        }
+      },
+      {
+        "timestamp": 1634215089.454,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "CertifyActivity",
+          "state": "resumed"
+        }
+      },
+      {
+        "timestamp": 1634215089.805,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "WebViewEventActivity",
+          "state": "stopped"
+        }
+      },
+      {
+        "timestamp": 1634215089.811,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "WebViewEventActivity",
+          "state": "destroyed"
+        }
+      },
+      {
+        "timestamp": 1634215092.109,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "CertifyActivity",
+          "state": "paused"
+        }
+      },
+      {
+        "timestamp": 1634215092.122,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "WebViewEventActivity",
+          "state": "created"
+        }
+      },
+      {
+        "timestamp": 1634215092.134,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "WebViewEventActivity",
+          "state": "started"
+        }
+      },
+      {
+        "timestamp": 1634215092.134,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "WebViewEventActivity",
+          "state": "resumed"
+        }
+      },
+      {
+        "timestamp": 1634215092.577,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "CertifyActivity",
+          "state": "stopped"
+        }
+      },
+      {
+        "timestamp": 1634215092.578,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "CertifyActivity",
+          "state": "saveInstanceState"
+        }
+      },
+      {
+        "timestamp": 1634215104.818,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "WebViewEventActivity",
+          "state": "paused"
+        }
+      },
+      {
+        "timestamp": 1634215104.837,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "CertifyActivity",
+          "state": "started"
+        }
+      },
+      {
+        "timestamp": 1634215104.837,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "CertifyActivity",
+          "state": "resumed"
+        }
+      },
+      {
+        "timestamp": 1634215105.177,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "WebViewEventActivity",
+          "state": "stopped"
+        }
+      },
+      {
+        "timestamp": 1634215105.185,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "WebViewEventActivity",
+          "state": "destroyed"
+        }
+      },
+      {
+        "timestamp": 1634215119.183,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "CertifyActivity",
+          "state": "paused"
+        }
+      },
+      {
+        "timestamp": 1634215119.248,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "MainTabActivity",
+          "state": "started"
+        }
+      },
+      {
+        "timestamp": 1634215119.258,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "MainTabActivity",
+          "state": "resumed"
+        }
+      },
+      {
+        "timestamp": 1634215119.348,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "MainTabActivity",
+          "state": "paused"
+        }
+      },
+      {
+        "timestamp": 1634215119.383,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "GoodocPassActivity",
+          "state": "created"
+        }
+      },
+      {
+        "timestamp": 1634215119.398,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "GoodocPassActivity",
+          "state": "started"
+        }
+      },
+      {
+        "timestamp": 1634215119.429,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "GoodocPassActivity",
+          "state": "resumed"
+        }
+      },
+      {
+        "timestamp": 1634215119.914,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "MainTabActivity",
+          "state": "stopped"
+        }
+      },
+      {
+        "timestamp": 1634215119.916,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "MainTabActivity",
+          "state": "saveInstanceState"
+        }
+      },
+      {
+        "timestamp": 1634215119.917,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "VaccinationLandingActivity",
+          "state": "destroyed"
+        }
+      },
+      {
+        "timestamp": 1634215119.923,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "CertifyActivity",
+          "state": "stopped"
+        }
+      },
+      {
+        "timestamp": 1634215119.924,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "CertifyActivity",
+          "state": "destroyed"
+        }
+      },
+      {
+        "timestamp": 1634215124.831,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "GoodocPassActivity",
+          "state": "paused"
+        }
+      },
+      {
+        "timestamp": 1634215124.847,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "Gov24SimplyCertActivity",
+          "state": "created"
+        }
+      },
+      {
+        "timestamp": 1634215124.856,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "Gov24SimplyCertActivity",
+          "state": "started"
+        }
+      },
+      {
+        "timestamp": 1634215124.857,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "Gov24SimplyCertActivity",
+          "state": "resumed"
+        }
+      },
+      {
+        "timestamp": 1634215125.359,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "GoodocPassActivity",
+          "state": "stopped"
+        }
+      },
+      {
+        "timestamp": 1634215125.36,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "GoodocPassActivity",
+          "state": "saveInstanceState"
+        }
+      },
+      {
+        "timestamp": 1634215155.501,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "Gov24SimplyCertActivity",
+          "state": "paused"
+        }
+      },
+      {
+        "timestamp": 1634215155.984,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "Gov24SimplyCertActivity",
+          "state": "stopped"
+        }
+      },
+      {
+        "timestamp": 1634215155.985,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "Gov24SimplyCertActivity",
+          "state": "saveInstanceState"
+        }
+      },
+      {
+        "timestamp": 1634215156.102,
+        "type": "system",
+        "category": "device.event",
+        "level": "warning",
+        "message": "Low memory",
+        "data": {
+          "action": "LOW_MEMORY",
+          "level": 80
+        }
+      },
+      {
+        "timestamp": 1634215156.215,
+        "type": "navigation",
+        "category": "app.lifecycle",
+        "level": "info",
+        "data": {
+          "state": "background"
+        }
+      },
+      {
+        "timestamp": 1634215158.651,
+        "type": "system",
+        "category": "device.event",
+        "level": "warning",
+        "message": "Low memory",
+        "data": {
+          "action": "LOW_MEMORY",
+          "level": 80
+        }
+      },
+      {
+        "timestamp": 1634215170.687,
+        "type": "system",
+        "category": "device.event",
+        "level": "warning",
+        "message": "Low memory",
+        "data": {
+          "action": "LOW_MEMORY",
+          "level": 80
+        }
+      },
+      {
+        "timestamp": 1634215186.216,
+        "type": "session",
+        "category": "app.lifecycle",
+        "level": "info",
+        "data": {
+          "state": "end"
+        }
+      },
+      {
+        "timestamp": 1634215189.044,
+        "type": "system",
+        "category": "device.event",
+        "level": "warning",
+        "message": "Low memory",
+        "data": {
+          "action": "LOW_MEMORY",
+          "level": 80
+        }
+      },
+      {
+        "timestamp": 1634215189.894,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "Gov24SimplyCertActivity",
+          "state": "started"
+        }
+      },
+      {
+        "timestamp": 1634215189.895,
+        "type": "session",
+        "category": "app.lifecycle",
+        "level": "info",
+        "data": {
+          "state": "start"
+        }
+      },
+      {
+        "timestamp": 1634215189.898,
+        "type": "navigation",
+        "category": "app.lifecycle",
+        "level": "info",
+        "data": {
+          "state": "foreground"
+        }
+      },
+      {
+        "timestamp": 1634215189.9,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "Gov24SimplyCertActivity",
+          "state": "resumed"
+        }
+      },
+      {
+        "timestamp": 1634215228.431,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "Gov24SimplyCertActivity",
+          "state": "paused"
+        }
+      },
+      {
+        "timestamp": 1634215228.951,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "Gov24SimplyCertActivity",
+          "state": "stopped"
+        }
+      },
+      {
+        "timestamp": 1634215228.961,
+        "type": "navigation",
+        "category": "ui.lifecycle",
+        "level": "info",
+        "data": {
+          "screen": "Gov24SimplyCertActivity",
+          "state": "saveInstanceState"
+        }
+      },
+      {
+        "timestamp": 1634215229.131,
+        "type": "navigation",
+        "category": "app.lifecycle",
+        "level": "info",
+        "data": {
+          "state": "background"
+        }
+      },
+      {
+        "timestamp": 1634215237.007,
+        "type": "system",
+        "category": "device.event",
+        "level": "warning",
+        "message": "Low memory",
+        "data": {
+          "action": "LOW_MEMORY",
+          "level": 80
+        }
+      }
+    ]
+  },
+  "contexts": {
+    "app": {
+      "app_start_time": "2021-10-14T12:37:03.897Z",
+      "app_identifier": "com.ksncho.hospitalinfo",
+      "app_name": "굿닥",
+      "app_version": "4.5.22",
+      "app_build": "5714",
+      "type": "app"
+    },
+    "device": {
+      "name": "정민의 S21",
+      "family": "SM-G991N",
+      "model": "SM-G991N",
+      "model_id": "RP1A.200720.012",
+      "battery_level": 24,
+      "orientation": "portrait",
+      "manufacturer": "samsung",
+      "brand": "samsung",
+      "screen_density": 2.625,
+      "screen_dpi": 420,
+      "online": true,
+      "charging": false,
+      "low_memory": false,
+      "simulator": false,
+      "memory_size": 7536918528,
+      "free_memory": 1904537600,
+      "storage_size": 242017611776,
+      "free_storage": 106636050432,
+      "boot_time": "2021-09-22T05:09:25.068Z",
+      "timezone": "Asia/Seoul",
+      "archs": ["arm64-v8a", "armeabi-v7a", "armeabi"],
+      "battery_temperature": 35.4,
+      "connection_type": "wifi",
+      "id": "53aed79b91e4bb06",
+      "language": "ko_KR",
+      "screen_height_pixels": 2194,
+      "screen_width_pixels": 1080,
+      "type": "device"
+    },
+    "os": {
+      "name": "Android",
+      "version": "11",
+      "build": "RP1A.200720.012.G991NKSU3AUE8",
+      "kernel_version": "5.4.61-21757183-abG991NKSU3AUE8",
+      "rooted": false,
+      "type": "os"
+    }
+  },
+  "culprit": "com.ksncho.hospitalinfo.data.repository.GoodocPassRepositoryKt in toUpdateMyCovidVaccinationRequestModel",
+  "environment": "production",
+  "exception": {
+    "values": [
+      {
+        "type": "StringIndexOutOfBoundsException",
+        "value": "length=0; index=4",
+        "module": "java.lang",
+        "stacktrace": {
+          "frames": [
+            {
+              "function": "main",
+              "module": "com.android.internal.os.ZygoteInit",
+              "filename": "ZygoteInit.java",
+              "abs_path": "ZygoteInit.java",
+              "lineno": 1130,
+              "in_app": false
+            },
+            {
+              "function": "run",
+              "module": "com.android.internal.os.RuntimeInit$MethodAndArgsCaller",
+              "filename": "RuntimeInit.java",
+              "abs_path": "RuntimeInit.java",
+              "lineno": 602,
+              "in_app": false
+            },
+            {
+              "function": "invoke",
+              "module": "java.lang.reflect.Method",
+              "filename": "Method.java",
+              "abs_path": "Method.java",
+              "in_app": false
+            },
+            {
+              "function": "main",
+              "module": "android.app.ActivityThread",
+              "filename": "ActivityThread.java",
+              "abs_path": "ActivityThread.java",
+              "lineno": 8512,
+              "in_app": false
+            },
+            {
+              "function": "loop",
+              "module": "android.os.Looper",
+              "filename": "Looper.java",
+              "abs_path": "Looper.java",
+              "lineno": 246,
+              "in_app": false
+            },
+            {
+              "function": "dispatchMessage",
+              "module": "android.os.Handler",
+              "filename": "Handler.java",
+              "abs_path": "Handler.java",
+              "lineno": 99,
+              "in_app": false
+            },
+            {
+              "function": "handleCallback",
+              "module": "android.os.Handler",
+              "filename": "Handler.java",
+              "abs_path": "Handler.java",
+              "lineno": 938,
+              "in_app": false
+            },
+            {
+              "function": "run",
+              "module": "retrofit2.DefaultCallAdapterFactory$ExecutorCallbackCall$1$1",
+              "filename": "DefaultCallAdapterFactory.java",
+              "abs_path": "DefaultCallAdapterFactory.java",
+              "lineno": 83,
+              "in_app": false
+            },
+            {
+              "function": "onResponse",
+              "module": "com.ksncho.hospitalinfo.data.remote.network.NetworkManager$1",
+              "filename": "NetworkManager.java",
+              "abs_path": "NetworkManager.java",
+              "lineno": 269,
+              "in_app": true
+            },
+            {
+              "function": "onSuccess",
+              "module": "com.ksncho.hospitalinfo.ui.goodoccare.vaccination.simplycert.cert.Gov24SimplyCertSecondStepFragment$requestMyCovidVaccinations$1",
+              "filename": "Gov24SimplyCertSecondStepFragment.kt",
+              "abs_path": "Gov24SimplyCertSecondStepFragment.kt",
+              "lineno": 344,
+              "in_app": true
+            },
+            {
+              "function": "onSuccess",
+              "module": "com.ksncho.hospitalinfo.ui.goodoccare.vaccination.simplycert.cert.Gov24SimplyCertSecondStepFragment$requestMyCovidVaccinations$1",
+              "filename": "Gov24SimplyCertSecondStepFragment.kt",
+              "abs_path": "Gov24SimplyCertSecondStepFragment.kt",
+              "lineno": 347,
+              "in_app": true
+            },
+            {
+              "function": "toUpdateMyCovidVaccinationRequestModel",
+              "module": "com.ksncho.hospitalinfo.data.repository.GoodocPassRepositoryKt",
+              "filename": "GoodocPassRepository.kt",
+              "abs_path": "GoodocPassRepository.kt",
+              "lineno": 293,
+              "in_app": true
+            },
+            {
+              "function": "substring",
+              "module": "java.lang.String",
+              "filename": "String.java",
+              "abs_path": "String.java",
+              "lineno": 2060,
+              "in_app": false
+            }
+          ]
+        },
+        "thread_id": 2,
+        "mechanism": {
+          "type": "UncaughtExceptionHandler",
+          "handled": false
+        }
+      }
+    ]
+  },
+  "fingerprint": ["{{ default }}"],
+  "grouping_config": {
+    "enhancements": "eJybzDRxY3J-bm5-npWRgaGlroGxrpHxBABcYgcZ",
+    "id": "newstyle:2019-10-29"
+  },
+  "hashes": [
+    "ec6835053537e73eb9ef4aae31acaae3",
+    "f39a65c20ff0bc502689cfe40e2e8a03"
+  ],
+  "ingest_path": [
+    {
+      "public_key": "XE7QiyuNlja9PZ7I9qJlwQotzecWrUIN91BAO7Q5R38",
+      "version": "21.9.0"
+    }
+  ],
+  "key_id": "1615246",
+  "level": "fatal",
+  "location": "GoodocPassRepository.kt",
+  "logger": "",
+  "metadata": {
+    "display_title_with_tree_label": false,
+    "filename": "GoodocPassRepository.kt",
+    "function": "toUpdateMyCovidVaccinationRequestModel",
+    "type": "StringIndexOutOfBoundsException",
+    "value": "length=0; index=4"
+  },
+  "nodestore_insert": 1634215251.920539,
+  "received": 1634215248.821001,
+  "sdk": {
+    "name": "sentry.java.android",
+    "version": "4.3.0",
+    "packages": [
+      {
+        "name": "maven:io.sentry:sentry",
+        "version": "4.3.0"
+      },
+      {
+        "name": "maven:io.sentry:sentry-android-core",
+        "version": "4.3.0"
+      },
+      {
+        "name": "maven:io.sentry:sentry-android-ndk",
+        "version": "4.3.0"
+      }
+    ]
+  },
+  "timestamp": 1634215250.401,
+  "title": "StringIndexOutOfBoundsException: length=0; index=4",
+  "type": "error",
+  "user": {
+    "id": "53aed79b91e4bb06"
+  },
+  "version": "7"
+}

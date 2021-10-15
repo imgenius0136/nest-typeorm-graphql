@@ -2,7 +2,7 @@ import { TypeOrmModule } from "@nestjs/typeorm";
 import { Hospital } from "src/entity/hospital.entity";
 import { User } from "src/entity/user.entity";
 
-export const typeOrm = TypeOrmModule.forRoot({
+export const typeOrmConfig = TypeOrmModule.forRoot({
     type: 'mysql',
     host: 'localhost',
     port: 3306,
